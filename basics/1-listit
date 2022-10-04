@@ -1,3 +1,2 @@
 #!/bin/bash
-LIST=`ls`
-echo The content of this directory is $LIST
+echo The content of this directory is `ls`
