@@ -1,2 +1,2 @@
 #!/bin/bash
-echo The current absolute path name is $PWD
+echo $PWD
