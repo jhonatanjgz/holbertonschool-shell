@@ -1,3 +1,2 @@
 #!/bin/bash
-CURRENT_PATH=`pwd`
-echo The current absolute path name is $CURRENT_PATH
+echo The current absolute path name is $PWD
