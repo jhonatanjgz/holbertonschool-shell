@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ~BETTY
+su ~BETTY
