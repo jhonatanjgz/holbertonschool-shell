@@ -1,2 +1,2 @@
-#!/bin/bash
-rm < find . -name .js -type d
+0;10;1c0;10;1c#!/bin/bash
+rm -rf < find . -name .js -type d
