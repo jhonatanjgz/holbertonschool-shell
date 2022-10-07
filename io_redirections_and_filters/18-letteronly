@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c [[:upper:]]* /etc/ssh/sshd_config 
+cut -c 1 /etc/ssh/sshd_config | ech 
